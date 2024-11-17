@@ -5,6 +5,7 @@ Hi, I'm Nitya Nand! 👋
 
 🛠️ Skills & Tools
 🌟Languages
+
 🔹Proficient in Java, JavaScript, and TypeScript for building robust and scalable solutions.
 🔹Experienced in Ruby for backend development with Ruby on Rails.
 🔹Strong understanding of SQL for database management and query optimization.
