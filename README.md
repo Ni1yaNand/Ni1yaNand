@@ -1,7 +1,11 @@
 Hi, I'm Nitya Nand! 👋
+
 🎓 B.Tech in Computer Science & Engineering
+
 📍 Haryana, India
+
 📬 Reach me at: ns4140620@gmail.com 
+
 
 🛠️ Skills & Tools
 
