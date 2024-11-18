@@ -11,9 +11,9 @@ Hi, I'm Nitya Nand! 👋
 
 🌟Languages
 
-🔹Proficient in Java, JavaScript, and TypeScript for building robust and scalable solutions.
+🔹Proficient in JavaScript, Ruby and TypeScript for building robust and scalable solutions.
 
-🔹Experienced in Ruby for backend development with Ruby on Rails.
+🔹Experienced in solving coding problems using Java.
 
 🔹Strong understanding of SQL for database management and query optimization.
 
@@ -29,7 +29,7 @@ Hi, I'm Nitya Nand! 👋
 
 🔹 Proficient in MongoDB for NoSQL databases and MySQL for relational database management.
 
-🔹 Skilled in using Prisma as an ORM for seamless database interaction.
+🔹 Skilled in using Prisma, Drizzle, Neon as ORM for seamless database interaction.
 
 🌟Tools
 
@@ -40,6 +40,6 @@ Hi, I'm Nitya Nand! 👋
 
 🏆 Achievements
 
-🔹 Solved over 500+ DSA problems on LeetCode and other coding platforms.
+🔹 Solved over 700+ DSA problems on LeetCode and other coding platforms and maintaining a 75+ days streak on problem solving on Leetcode.
 
 🔹 Achieved Top 191st place in a Biweekly Contest and 154th in a Weekly Contest on LeetCode.
