@@ -40,6 +40,6 @@ Hi, I'm Nitya Nand! 👋
 
 🏆 Achievements
 
-🔹 Solved over 700+ DSA problems on LeetCode and other coding platforms and maintaining a 75+ days streak on problem solving on Leetcode.
+🔹 Solved over 700+ DSA problems on LeetCode and other platforms and maintaining a 75+ days streak of problem solving on Leetcode.
 
 🔹 Achieved Top 191st place in a Biweekly Contest and 154th in a Weekly Contest on LeetCode.
